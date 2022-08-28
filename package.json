@@ -1,0 +1,25 @@
+{
+  "name": "elementary-auth",
+  "version": "1.0.0",
+  "description": "A simple system for authentication in web apps for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrShoeShoe66/elementary-auth.git"
+  },
+  "keywords": [
+    "auth",
+    "authentication",
+    "elementary-auth",
+    "elementary-authentication"
+  ],
+  "author": "MrShoe_",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrShoeShoe66/elementary-auth/issues"
+  },
+  "homepage": "https://github.com/MrShoeShoe66/elementary-auth#readme"
+}
