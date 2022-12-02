@@ -52,6 +52,26 @@ Return Value:
     }
 ```
 
+## checkUser
+
+See if a username is valid
+
+```js
+authManager.checkUser(
+    username,
+    password,
+    other
+)
+```
+
+Return Value:
+```js
+    return
+        true
+            ||
+        false
+```
+
 ## getUser
 
 Gets the user object bassed on username

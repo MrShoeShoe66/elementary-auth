@@ -13,6 +13,14 @@ class AuthManager {
         return this.users
     }
 
+    checkUser(username) {
+        if (username in Object.keys(this.users)) {
+            return true
+        } else {
+            return false
+        }
+    }
+
     createUser(username, unencrypted_password, other) {
         let password = this.encryptPassword(unencrypted_password)
         this.users[username] = {

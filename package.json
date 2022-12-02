@@ -1,6 +1,6 @@
 {
   "name": "elementary-auth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple system for authentication in web apps for Node.js",
   "main": "index.js",
   "scripts": {
